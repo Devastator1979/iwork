@@ -18,7 +18,7 @@ public class Task02 {
             x /= 10;
         }
         System.out.println(sum + " ");
-
+        //Второй вариант решения
         for (x = x1; x != 0; x /= 10) {
             sum1 += (x % 10);
         }
