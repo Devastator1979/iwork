@@ -5,7 +5,8 @@
 package IW27_05_2019;
 public class Task05 {
     public static void main(String arg[]){
-        
+        final int r;
+        r = 5;
     }
     
 }
